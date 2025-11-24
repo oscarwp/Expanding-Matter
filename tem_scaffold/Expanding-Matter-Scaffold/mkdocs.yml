@@ -1,0 +1,24 @@
+site_name: Expanding Matter (TEM)
+repo_url: https://github.com/oscarwp/Expanding-Matter
+
+theme:
+  name: material
+
+docs_dir: docs
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+
+plugins:
+  - search
+  - roamlinks
+
+extra_javascript:
+  - javascripts/mathjax.js

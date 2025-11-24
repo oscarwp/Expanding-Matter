@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Obsidian noise (safe to ignore)
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/cache/
+.obsidian/plugins/obsidian-git/data.json
+
+# MkDocs build output
+site/
+
+# Python / tooling
+.venv/
+venv/
+__pycache__/
+.mypy_cache/
+.cache/

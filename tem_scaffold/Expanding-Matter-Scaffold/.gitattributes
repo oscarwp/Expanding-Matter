@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.md linguist-language=Markdown
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf  binary
