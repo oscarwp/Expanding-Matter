@@ -1,0 +1,1 @@
+These are all in progress (some very actively) but they still represent a decent snapshot of this whole project and the pdfs here are a great place to start looking at things.   The markdown versions are also current.
