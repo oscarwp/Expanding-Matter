@@ -1,3 +1,18 @@
+---
+title: UC-PWE - THE COMPLETE THREE‑CIRCLE UNIVERSAL CALCULATOR - PERSONAL WELLNESS EDITION
+author: |-
+  Oscar Wojciechowski-Prill
+  Affiliation: Humanity
+  everythingexpands@gmail.com
+date: |-
+  25-318
+  November 14, 2025
+aliases:
+  - UC-PWE
+  - UC Personal Edition
+  - Universal Calculator Personal Edition
+---
+
 # THE COMPLETE THREE‑CIRCLE UNIVERSAL CALCULATOR (PERSONAL WELLNESS EDITION)
 
 _A comprehensive mapping of the Universal Calculator’s three rings and their ten positions—reinterpreted one‑to‑one for personal practice, regulation, relationships, and growth._
